@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Enzo ABDALLAH and I'm a 1st year student at Epitech Reunion👾</h2>
+<h2 align="left">Hi 👋! My name is Enzo ABDALLAH and I'm a 3rd year student at Epitech Reunion👾</h2>
 
 ###
 
